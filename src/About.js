@@ -29,7 +29,7 @@ const About = () => {
                   <ul>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}
-                      <strong>Birthday:</strong> <span>29 Jan 2000</span>
+                      <strong>Birthday :</strong> <span>29 Jan 2000</span>
                     </li>
                     <li>
                       <i className="bi bi-chevron-right"></i>{" "}

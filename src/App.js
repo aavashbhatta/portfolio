@@ -15,9 +15,8 @@ function App() {
     <div className="App">
       <header className="App-header">Hello</header>
       <Sidebar />
-
       <About />
-      <Skills />
+      <Skills />g
       <Project />
       <Resume />
       {/* <Services /> */}
