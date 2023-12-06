@@ -16,7 +16,7 @@ function App() {
       <header className="App-header">Hello</header>
       <Sidebar />
       <About />
-      <Skills />g
+      <Skills />
       <Project />
       <Resume />
       {/* <Services /> */}

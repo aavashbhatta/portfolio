@@ -8,8 +8,8 @@ const Project = () => {
     <main id="main">
       <section id="Project" className="skills section-bg">
         <div className="container">
-          <div className="Project-title">
-            <Commontitle name="Project" />
+          <div className="section-title">
+            <Commontitle name="Projects" />
 
             <Commontext name="" />
           </div>
@@ -71,8 +71,8 @@ const Project = () => {
             <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <div className="progress">
                 <span className="skill">
-                  <a href="https://ilamiagro.com">
-                    Ilami Agro <i className="val"></i>
+                  <a href="https://www.actionforchange.netfy.org/">
+                    Action For Change <i className="val"></i>
                   </a>
                 </span>
                 {/* <div className="progress-bar-wrap"> 

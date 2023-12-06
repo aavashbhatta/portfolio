@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="copyright">
           &copy; Copyright{" "}
           <strong>
-            <span>iPortfolio</span>
+            <span></span>
           </strong>
         </div>
         <div className="credits">
