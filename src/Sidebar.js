@@ -42,6 +42,11 @@ const Sidebar = () => {
               </a>
             </li>
             <li>
+              <a href="#skills" className="nav-link scrollto">
+                <i className="bx bx-user"></i> <span>Skills</span>
+              </a>
+            </li>
+            <li>
               <a href="#resume" className="nav-link scrollto">
                 <i className="bx bx-file-blank"></i> <span>Resume</span>
               </a>
