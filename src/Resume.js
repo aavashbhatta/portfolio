@@ -54,8 +54,18 @@ const Resume = () => {
             <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <h3 className="resume-title">Professional Experience</h3>
               <div className="resume-item">
+                <h4>Freelancing</h4>
+                <h5>2020-2023 </h5>
+                <p>
+                  <em></em>
+                </p>
+                <ul>
+                  <li>Web Development</li>
+                  <li>Video Editing</li>
+                  <li>Software Development</li>
+                </ul>
                 <h4>MERN Training</h4>
-                <h5>2023 </h5>
+                <h5>2022 </h5>
                 <p>
                   <em>Tech Axis , Kumaripati </em>
                 </p>

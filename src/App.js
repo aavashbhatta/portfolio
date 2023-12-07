@@ -13,13 +13,12 @@ import Contact from "./Contact";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">Hello</header>
+      <header className="App-header"></header>
       <Sidebar />
       <About />
       <Skills />
       <Project />
       <Resume />
-      {/* <Services /> */}
       <Contact />
     </div>
   );
