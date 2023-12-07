@@ -65,7 +65,7 @@ const Skills = () => {
             <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
               <div className="progress">
                 <span className="skill">
-                  Data Entry <i className="val"></i>
+                  PHP <i className="val"></i>
                 </span>
                 {/* <div className="progress-bar-wrap">
                   <div

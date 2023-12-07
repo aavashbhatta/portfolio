@@ -3,12 +3,9 @@ import Homepage from "./homepage";
 import Sidebar from "./Sidebar";
 import Herosection from "./Herosection";
 import About from "./About";
-import Facts from "./Facts";
 import Skills from "./Skills";
 import Project from "./Project";
 import Resume from "./Resume";
-import Services from "./Services";
-import Testimonials from "./Testimonials";
 import Contact from "./Contact";
 function App() {
   return (
